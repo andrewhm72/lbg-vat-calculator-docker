@@ -1,4 +1,4 @@
-Pipeline{
+pipeline{
  environment {
  registry = "andrewhm72/vat-webcalc"
         registryCredentials = "dockerhub_id"
